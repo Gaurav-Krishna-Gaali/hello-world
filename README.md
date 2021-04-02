@@ -1,2 +1,5 @@
 # hello-world
-Just another Repository
+
+Hello-world!
+
+Just another chap being a wannabe programmer!
